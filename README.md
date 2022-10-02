@@ -10,5 +10,10 @@ Anonymous Chat Application. A catchy name isn't it.
 
 ## Contributing
 
-- Issues will be posted regularly. All tagged with `hacktoberfest` for month of Oct '22.
-- 
+**Important notes:**
+
+- Issues will be posted regularly. All tagged with `#hacktoberfest` for month of Oct '22.
+- ONLY PR's of issue-assignees of issues will be reviewed. Hence, raise a request for assignment via comments of specific issues
+- Please don't breach the specified [code-of-conduct](./CODE-OF-CONDUCT.md)
+
+For all guidelines have a look at [Contibuting](./CONTRIBUTING.md)
